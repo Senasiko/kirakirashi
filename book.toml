@@ -1,0 +1,11 @@
+[book]
+authors = ["Senasiko"]
+language = "chs"
+multilingual = true
+src = "src"
+title = "Kirakirashi"
+
+[[output.i18n.translations]]
+language = "jp"
+src = "./translations/jp"
+title = "きらきらし"
